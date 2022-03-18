@@ -38,6 +38,10 @@ Pada script diatas akan menulis pendonasi dan jumlah uang yang didonasikan kepad
 #### Langkah 1
 Download Release kode terbaru dan extract keseluruhan dimana saja.
 
+#### Langkah 2
+Kita harus mengetahui streamkey kamu, saya sudah membuatkan halaman pengambil stream key anda,
+yang kamu perlu lakukan hanya menyalin **Url Stream Overlay** ke clipboard, dan buka file **streamkeyfinder.html** pada folder **StreamKeyFinder**, browser akan terbuka dan pastekan url ke input yang pertama dan klik **Ambil Key**, Stream Key akan muncul pada kolom input dibawahnya.
+
 
 ## Yang sudah menggunakan
 Coming soon :D

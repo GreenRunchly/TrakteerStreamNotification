@@ -15,7 +15,7 @@ Ini adalah skrip notifikasi stream overlay trakteer, jadi kamu bisa mendapatkan 
 - Foto profile pendonasi
 
 ## Bagaimana cara pakainya?
-Kamu hanya tinggal mengganti isi pada tag meta "trakteer_streamkey" dan "trakteer_streamkeytest" sesuai keystream milik mu, dan kamu bisa membuat apapun dengan data yang akan masuk saat seseorang mendonasi.
+Kamu hanya tinggal mengganti isi pada tag meta <b>"trakteer_streamkey"<b> dan "trakteer_streamkeytest" sesuai keystream milik mu, dan kamu bisa membuat apapun dengan data yang akan masuk saat seseorang mendonasi.
 
 ## Contoh yang sudah memakai ini
 Coming soon :D

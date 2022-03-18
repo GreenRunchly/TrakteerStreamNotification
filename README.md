@@ -1,2 +1,4 @@
 # Trakteer Stream Notification
-Kamu bisa mendapatkan isi metahan stream notification trakteer script ini!
+Kamu bisa mengetahui isi pesan notifikasi pada trakteer kamu dengan script ini!
+
+# Apa ini?

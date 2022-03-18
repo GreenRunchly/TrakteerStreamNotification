@@ -1,0 +1,61 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="google" content="notranslate" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Trakteer Stream Key Finder</title>
+    <meta name="author" content="GreenRunchly">
+    <script src="jquery.js"></script>
+    <script src="streamkeyfinder.js"></script>
+</head>
+<style type="text/css">
+    .halaman{
+        width: 100%;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 48px;
+    }
+    input{
+        width: 100%;
+        height: 30px;
+        padding: 8px 10px;
+        border-radius: 8px;
+        border: 1px solid black;
+    }
+    button{
+        min-width: 140px;
+        height: 30px;
+        font-size: 14px;
+        font-weight: bold;
+        border-radius: 8px;
+        border: 1px solid black;
+        margin-left: 16px;
+    }
+    label{
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .input-group{
+        display: flex;
+        margin-bottom: 10px;
+    }
+    .input-group.block{
+        display: block;
+    }
+</style>
+<body>
+    <div class="halaman">
+        <div class="input-group">
+            <input type="url" id="urlOverlay" placeholder="Masukan Url Overlay" value="">
+            <button class="findKey">Ambil Key</button>
+        </div>
+        <div class="input-group block">
+            <label>StreamKey (trakteer_streamkey)</label>
+            <input type="text" id="keyUtama">
+        </div>
+        <div class="input-group block">
+            <label>StreamKeyTest (trakteer_streamkeytest)</label>
+            <input type="text" id="keyTest">
+        </div>
+    </div>
+</body>

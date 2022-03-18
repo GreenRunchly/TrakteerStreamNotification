@@ -1,5 +1,5 @@
 # Trakteer Stream Notification
-Kamu bisa mengetahui isi pesan notifikasi pada trakteer kamu dengan script ini!
+Kamu bisa mengetahui isi pesan notifikasi pada trakteer.id kamu dengan script ini!
 
 ## Apa ini?
 Ini adalah skrip notifikasi stream overlay trakteer, jadi kamu bisa mendapatkan data mentah saat pendonasi mulai mentraktir kamu!

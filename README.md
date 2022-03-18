@@ -50,4 +50,5 @@ Lakukan Send Test Message, dan lihat hasilnya!
 
 
 ## Yang sudah menggunakan
-Coming soon :D
+https://github.com/muhreezky
+@muhreezky

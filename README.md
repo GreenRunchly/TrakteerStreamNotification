@@ -15,9 +15,16 @@ Ini adalah skrip notifikasi stream overlay trakteer, jadi kamu bisa mendapatkan 
 - Foto profile pendonasi
 
 ## Bagaimana cara pakainya?
+
+### Yang diperlukan
+- JQuery versi 3.5.1 atau lebih baru
+- Stream Key Overlay kamu
+
+### Cara Pakai
 Kamu hanya tinggal mengganti isi pada tag meta **"trakteer_streamkey"** dan **"trakteer_streamkeytest"** sesuai keystream milik mu, dan kamu bisa membuat apapun dengan data yang akan masuk saat seseorang mendonasi.
 
 Lalu pada function **trakteerCall()** pada file trakteer-stream.js bisa ubah semau mu.
+
 ### Contoh
 ```
 function trakteerCall(trakteerJson) {
@@ -26,6 +33,11 @@ function trakteerCall(trakteerJson) {
 }
 ```
 Pada script diatas akan menulis pendonasi dan jumlah uang yang didonasikan kepada anda pada tag dengan id **log**.
+
+### Langkah lengkap cara pakai
+#### Langkah 1
+Download Release kode terbaru dan extract keseluruhan dimana saja.
+
 
 ## Yang sudah menggunakan
 Coming soon :D

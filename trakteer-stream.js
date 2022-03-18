@@ -5,4 +5,5 @@
 function trakteerCall(trakteerJson) {
 	/// trakteerJson berbentuk data array pendonasi.
 	$("#log").append(trakteerJson.supporter_name+' - '+trakteerJson.price+'<br>');
+	console.log(trakteerJson);
 }

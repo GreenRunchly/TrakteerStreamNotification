@@ -42,6 +42,12 @@ Download Release kode terbaru dan extract keseluruhan dimana saja.
 Kita harus mengetahui streamkey kamu, saya sudah membuatkan halaman pengambil stream key anda,
 yang kamu perlu lakukan hanya menyalin **Url Stream Overlay** ke clipboard, dan buka file **streamkeyfinder.html** pada folder **StreamKeyFinder**, browser akan terbuka dan pastekan url ke input yang pertama dan klik **Ambil Key**, Stream Key akan muncul pada kolom input dibawahnya.
 
+#### Langkah 3
+Ganti isi pada tag meta **"trakteer_streamkey"** dan **"trakteer_streamkeytest"** sesuai keystream tadi pada file index.html dan simpan.
+
+#### Langkah 4
+Lakukan Send Test Message, dan lihat hasilnya!
+
 
 ## Yang sudah menggunakan
 Coming soon :D

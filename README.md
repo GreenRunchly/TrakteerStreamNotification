@@ -50,5 +50,4 @@ Lakukan Send Test Message, dan lihat hasilnya!
 
 
 ## Yang sudah menggunakan
-https://github.com/muhreezky
-@muhreezky
+[@muhreezky](https://github.com/muhreezky)

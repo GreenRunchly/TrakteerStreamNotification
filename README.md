@@ -1,4 +1,4 @@
-# Trakteer Stream Notification
+# Trakteer.id Stream Notification
 Kamu bisa mengetahui isi pesan notifikasi pada trakteer.id kamu dengan script ini!
 
 ## Apa ini?
